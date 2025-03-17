@@ -1,7 +1,7 @@
 {
     "build": {
       "env": {
-        "DATABASE_URL": "@database_url"
+        "DATABASE_URL": "mongodb+srv://burcu1818:Sx5cbQJCIG9bCNtT@todo.huhwv.mongodb.net/todo?retryWrites=true&w=majority"
       }
     }
   }
